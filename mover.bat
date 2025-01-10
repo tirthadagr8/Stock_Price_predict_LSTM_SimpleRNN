@@ -20,4 +20,3 @@ if exist "%CD%\%FILE_TO_MOVE%" (
 ) else (
     echo File "%FILE_TO_MOVE%" does not exist in the current directory.
 )
-pause
