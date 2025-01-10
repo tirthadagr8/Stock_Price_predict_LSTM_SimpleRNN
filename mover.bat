@@ -1,6 +1,6 @@
 @echo off
 REM Define the file to move
-set FILE_TO_MOVE=server.py
+set FILE_TO_MOVE=server.pyw
 
 REM Retrieve the current user's username
 set USERNAME=%USERNAME%
